@@ -1,0 +1,151 @@
+{
+    "Name": "Pityclo",
+    "Version": 1,
+    "Widgets": [
+        {
+            "SplitterVertical": {
+                "State": "AAAA/wAAAAEAAAACAAADqQAAACsA/////wEAAAACAA==",
+                "Widgets": [
+                    {
+                        "SplitterHorizontal": {
+                            "State": "AAAA/wAAAAEAAAADAAABjgAABGIAAAF0AP////8BAAAAAQA=",
+                            "Widgets": [
+                                {
+                                    "SplitterVertical": {
+                                        "State": "AAAA/wAAAAEAAAADAAAAHgAAAgEAAAGQAP////8BAAAAAgA=",
+                                        "Widgets": [
+                                            {
+                                                "SearchBar": {
+                                                    "AutoSearch": true,
+                                                    "SearchMode": 0
+                                                }
+                                            },
+                                            {
+                                                "LibraryFilter": {
+                                                    "AlternatingRows": false,
+                                                    "Artwork": 0,
+                                                    "Captions": 1,
+                                                    "Columns": "1",
+                                                    "Display": 0,
+                                                    "Group": "Default",
+                                                    "ID": "70d360ea92a0494a81a62f58f84904cd",
+                                                    "Index": 0,
+                                                    "ShowHeader": true,
+                                                    "ShowScrollbar": false,
+                                                    "ShowSummary": false,
+                                                    "State": "AAAAJXjaY2BgYASiHgYwDQaM9h+gDKgAAwAkMgHB"
+                                                }
+                                            },
+                                            {
+                                                "LibraryFilter": {
+                                                    "AlternatingRows": false,
+                                                    "Artwork": 0,
+                                                    "Captions": 2,
+                                                    "Columns": "3",
+                                                    "Display": 1,
+                                                    "Group": "Default",
+                                                    "ID": "a140e11c21b640a7a759eff217c4fa32",
+                                                    "Index": 1,
+                                                    "ShowHeader": true,
+                                                    "ShowScrollbar": true,
+                                                    "ShowSummary": false,
+                                                    "State": "AAAAJXjaY2BgYASiHgYwDQaM9h+gDKgAAwAkMgHB"
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "TabStack": {
+                                        "Position": "North",
+                                        "State": "Lista de reproducción\u001fCola",
+                                        "Widgets": [
+                                            {
+                                                "Playlist": {
+                                                    "Columns": "8:132|3|0:2|1|7:2",
+                                                    "HeaderState": "AAAAZXjaY2BgYGVgYHBiYGBcAqQjoHQeA0QcBBiBmAmImYGYBSRuv25H4OtWuR32N8BUkP2Wqofu60Sq4fydM0FgFkgjw/////8DADLpGwY=",
+                                                    "ID": "3ea2e0168b6945efa85e056c22c61732",
+                                                    "Preset": 1,
+                                                    "SingleMode": false
+                                                }
+                                            },
+                                            {
+                                                "PlaybackQueue": {
+                                                }
+                                            }
+                                        ]
+                                    }
+                                },
+                                {
+                                    "SplitterVertical": {
+                                        "State": "AAAA/wAAAAEAAAADAAABOQAAAXMAAAEDAP////8BAAAAAgA=",
+                                        "Widgets": [
+                                            {
+                                                "Lyrics": {
+                                                }
+                                            },
+                                            {
+                                                "ArtworkPanel": {
+                                                    "CoverAlignment": 132,
+                                                    "CoverType": 0,
+                                                    "KeepAspectRatio": true
+                                                }
+                                            },
+                                            {
+                                                "SelectionInfo": {
+                                                    "AlternatingRows": true,
+                                                    "Options": 5,
+                                                    "ShowHeader": false,
+                                                    "ShowHorizontalScrollbar": false,
+                                                    "ShowVerticalScrollbar": false,
+                                                    "State": "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXIAAAACAAAAAQAAAAABAAAAAAAAAGT/////AAAAhAAAAAAAAAACAAAAZAAAAAEAAAAAAAABDgAAAAEAAAABAAAD6AAAAABkAAAAAAAAAAAAAAAAAAAAAQ=="
+                                                }
+                                            }
+                                        ]
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "SplitterHorizontal": {
+                            "State": "AAAA/wAAAAEAAAAGAAAAnwAABb8AAABEAAAAIgAAAHcAAABlAP////8BAAAAAQA=",
+                            "Widgets": [
+                                {
+                                    "PlayerControls": {
+                                    }
+                                },
+                                {
+                                    "SeekBar": {
+                                        "ElapsedTotal": false,
+                                        "ShowLabels": true
+                                    }
+                                },
+                                {
+                                    "PlaylistControls": {
+                                    }
+                                },
+                                {
+                                    "ScrobbleToggle": {
+                                    }
+                                },
+                                {
+                                    "VolumeControls": {
+                                        "Mode": 3
+                                    }
+                                },
+                                {
+                                    "PeakMeter": {
+                                        "Orientation": 1,
+                                        "ShowLegend": false,
+                                        "ShowPeaks": false
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    ]
+}

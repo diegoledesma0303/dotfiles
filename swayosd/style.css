@@ -1,0 +1,29 @@
+@import "colors.css";
+
+window#osd {
+  border-radius: 9999px;
+  border: 3px solid @primaryy;
+  background: @surfacee; }
+  window#osd #container {
+    margin: 16px; }
+  window#osd image,
+  window#osd label {
+    color: @on_surface; }
+  window#osd progressbar:disabled,
+  window#osd image:disabled {
+    opacity: 0.5; }
+  window#osd progressbar {
+    min-height: 6px;
+    border-radius: 9999px;
+    background: transparent;
+    border: none; }
+  window#osd trough {
+    min-height: inherit;
+    border-radius: inherit;
+    border: none;
+    background: @primary_container; }
+  window#osd progress {
+    min-height: inherit;
+    border-radius: inherit;
+    border: none;
+    background: @primary; }
