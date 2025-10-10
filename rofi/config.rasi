@@ -29,7 +29,7 @@ configuration {
     display-window:             "";
     drun-display-format:        "{name}";
     window-format:              "{w} · {c} · {t}";
-    font: "Hack Nerd Font 10";
+    font: "UbuntuMono Nerd Font 11";
 
 }
 
