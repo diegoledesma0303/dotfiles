@@ -1,8 +1,0 @@
-[general]
-    import = ["colors.toml"]
-
-[window]
-    opacity = 0.8
-[font]
-    normal = { family = "UbuntuMono Nerd Font", style = "Regular" }
-    size = 11
