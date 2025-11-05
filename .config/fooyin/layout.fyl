@@ -12,7 +12,7 @@
                             "Widgets": [
                                 {
                                     "SplitterVertical": {
-                                        "State": "AAAA/wAAAAEAAAADAAAAHgAAAgEAAAGQAP////8BAAAAAgA=",
+                                        "State": "AAAA/wAAAAEAAAADAAAAIAAAAgEAAAGQAP////8BAAAAAgA=",
                                         "Widgets": [
                                             {
                                                 "SearchBar": {
@@ -33,7 +33,7 @@
                                                     "ShowHeader": true,
                                                     "ShowScrollbar": false,
                                                     "ShowSummary": false,
-                                                    "State": "AAAAJXjaY2BgYASiHgYwDQaM9h+gDKgAAwAkMgHB"
+                                                    "State": "AAAAJXjaY2BgYASiCQxgGgwY7T9AGVABBgAkqgHF"
                                                 }
                                             },
                                             {
@@ -49,7 +49,7 @@
                                                     "ShowHeader": true,
                                                     "ShowScrollbar": true,
                                                     "ShowSummary": false,
-                                                    "State": "AAAAJXjaY2BgYASiHgYwDQaM9h+gDKgAAwAkMgHB"
+                                                    "State": "AAAAJXjaY2BgYASiCQxgGgwY7T9AGVABBgAkqgHF"
                                                 }
                                             }
                                         ]
@@ -63,7 +63,7 @@
                                             {
                                                 "Playlist": {
                                                     "Columns": "8:132|3|0:2|1|7:2",
-                                                    "HeaderState": "AAAAZXjaY2BgYGVgYHBiYGBcAqQjoHQeA0QcBBiBmAmImYGYBSRuv25H4OtWuR32N8BUkP2Wqofu60Sq4fydM0FgFkgjw/////8DADLpGwY=",
+                                                    "HeaderState": "AAAAZXjaY2BgYGVgYHBmYGBcDaSjoHQBA0QcBBiBmAmImYGYBSRuv25H4OtWuR32N8BUkP2Wqofu60Sq4fydM0FgFkgjw/////8DADlDGxk=",
                                                     "ID": "3ea2e0168b6945efa85e056c22c61732",
                                                     "Preset": 1,
                                                     "SingleMode": false
@@ -98,7 +98,7 @@
                                                     "ShowHeader": false,
                                                     "ShowHorizontalScrollbar": false,
                                                     "ShowVerticalScrollbar": false,
-                                                    "State": "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXIAAAACAAAAAQAAAAABAAAAAAAAAGT/////AAAAhAAAAAAAAAACAAAAZAAAAAEAAAAAAAABDgAAAAEAAAABAAAD6AAAAABkAAAAAAAAAAAAAAAAAAAAAQ=="
+                                                    "State": "AAAA/wAAAAAAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXYAAAACAAAAAQAAAAABAAAAAAAAAGT/////AAAAhAAAAAAAAAACAAAAZAAAAAEAAAAAAAABEgAAAAEAAAABAAAD6AAAAABkAAAAAAAAAAAAAAAAAAAAAQ=="
                                                 }
                                             }
                                         ]
