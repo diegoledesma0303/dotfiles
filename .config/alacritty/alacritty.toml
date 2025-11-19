@@ -1,8 +1,6 @@
-[window]
-    opacity = 0.9
 [font]
-    normal = { family = "UbuntuMono Nerd Font", style = "Regular" }
-    size = 11
+    normal = { family = "Noto Sans Mono", style = "Regular" }
+    size = 10
 
 [colors.primary]
 background = '#2c2c2c'
